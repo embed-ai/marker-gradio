@@ -1,1 +1,2 @@
+gradio~=5.8
 git+https://github.com/VikParuchuri/marker.git
